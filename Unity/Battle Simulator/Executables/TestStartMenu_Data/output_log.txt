@@ -1,0 +1,37 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 M260 (ID=0x6900)
+    Vendor:   ATI
+    VRAM:     2040 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Game Development\Unity\Projects\Battle Simulator\Executables\TestStartMenu_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Game Development\Unity\Projects\Battle Simulator\Executables\TestStartMenu_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Game Development\Unity\Projects\Battle Simulator\Executables\TestStartMenu_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Game Development\Unity\Projects\Battle Simulator\Executables\TestStartMenu_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Game Development\Unity\Projects\Battle Simulator\Executables\TestStartMenu_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Game Development\Unity\Projects\Battle Simulator\Executables\TestStartMenu_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Game Development\Unity\Projects\Battle Simulator\Executables\TestStartMenu_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Game Development\Unity\Projects\Battle Simulator\Executables\TestStartMenu_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Game Development\Unity\Projects\Battle Simulator\Executables\TestStartMenu_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.094 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\Game Development\Unity\Projects\Battle Simulator\Executables\TestStartMenu_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 279c -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.491548 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 172.
+Total: 0.256197 ms (FindLiveObjects: 0.026843 ms CreateObjectMapping: 0.015790 ms MarkObjects: 0.205668 ms  DeleteObjects: 0.005526 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.187035 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 169.
+Total: 0.554634 ms (FindLiveObjects: 0.037107 ms CreateObjectMapping: 0.043423 ms MarkObjects: 0.446865 ms  DeleteObjects: 0.025264 ms)
+
